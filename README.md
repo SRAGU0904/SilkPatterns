@@ -12,7 +12,8 @@
   Performs color analysis on the collected silk images.
 - **CleaningAndAnalysis.ipynb**  
 Documents the full data cleaning and analysis process, including preprocessing steps, label translations, and statistical summaries.
--**MotifClustering**
+
+- **MotifClustering**
   Performs motifs clustering
 
 ---
